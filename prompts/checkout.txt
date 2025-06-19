@@ -1,0 +1,5 @@
+Generate playwright test for this scenario:
+
+Navigate to https://www.saucedemo.com
+Login to the site using standard_user as username and secret_sauce as password.
+Add 2 items to the cart and then perform checkout.
